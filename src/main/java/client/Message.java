@@ -7,7 +7,7 @@ package client;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
-
+//wtf
 @XmlRootElement
 public class Message {
     
