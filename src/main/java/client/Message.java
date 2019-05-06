@@ -8,6 +8,7 @@ package client;
 import javax.xml.bind.annotation.XmlRootElement;
 
 //wtf
+//nu händer det grejer
 @XmlRootElement
 public class Message {
     
